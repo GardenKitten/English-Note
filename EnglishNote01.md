@@ -6,10 +6,6 @@
 <br>
 
 <!-- omit in toc -->
-
-<br>
-
-<!-- omit in toc -->
 ## 写在前面 
 * 使用词典：[Collins](https://www.collinsdictionary.com/)
 * 个人学习用，仅供参考，可能会有错漏
