@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # 不要只用"Say"了! 
-> 整理了一些英语里描述“说话”的动词，一边写一边感慨真是花样百出
+> 整理了一些英语里描述“说话”的动词，一边写一边感慨真是花样百出。<br>
 > 下面的单词全是ao3看文看来的，~~又名我在ao3学英语~~
 
 <br>
@@ -89,7 +89,7 @@ If you counter something that someone has said, you say something which shows th
 If you cry something, you shout it or say it loudly.
 > 'Nancy Drew,' she **cried**, 'you're under arrest!'
 > 
->> **Cry out means the same as cry.**
+>> **Cry out means the same as cry.**<br>
 >> 'You're wrong, quite wrong!' Henry **cried out**, suddenly excited.
 
 <br>
@@ -241,7 +241,7 @@ When you whisper, you say something very quietly, using your breath rather than 
 ### yell
 If you yell, you shout loudly, usually because you are excited, angry, or in pain.
 > 'Eva!' he **yelled**.
->> **Yell out means the same as yell.**
+>> **Yell out means the same as yell.**<br>
 >> 'Are you coming or not?' they **yelled out** after him. 
 
 <br>
