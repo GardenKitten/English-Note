@@ -1,19 +1,63 @@
-# 不要只用"Say"了! {ignore=true}
+<!-- omit in toc -->
+# 不要只用"Say"了! 
 > 整理了一些英语里描述“说话”的动词，一边写一边感慨真是花样百出
 > 下面的单词全是ao3看文看来的，~~又名我在ao3学英语~~
 
 <br>
 
-## 写在前面 {ignore=true}
+<!-- omit in toc -->
+
+<br>
+
+<!-- omit in toc -->
+## 写在前面 
 * 使用词典：[Collins](https://www.collinsdictionary.com/)
 * 个人学习用，仅供参考，可能会有错漏
 * 制作整理：[雨](https://github.com/GardenKitten)，转载请注明[出处](https://github.com/GardenKitten/English-Note)
 
-## 目录 {ignore=true}
-[toc]
+<br>
 
+<!-- omit in toc -->
+## 目录 
+- [正文](#正文)
+  - [add](#add)
+  - [begin](#begin)
+  - [continue](#continue)
+  - [correct](#correct)
+  - [counter](#counter)
+  - [cry](#cry)
+  - [demand](#demand)
+  - [giggle](#giggle)
+  - [growl](#growl)
+  - [grumble](#grumble)
+  - [groan](#groan)
+  - [huff](#huff)
+  - [hiss](#hiss)
+  - [moan](#moan)
+  - [mumble](#mumble)
+  - [murmur](#murmur)
+  - [mutter](#mutter)
+  - [offer](#offer)
+  - [prompt](#prompt)
+  - [reply](#reply)
+  - [retort](#retort)
+  - [scream](#scream)
+  - [scoff](#scoff)
+  - [shout](#shout)
+  - [snarl](#snarl)
+  - [snap](#snap)
+  - [sob](#sob)
+  - [splutter  (sputter)](#splutter--sputter)
+  - [warn](#warn)
+  - [whisper](#whisper)
+  - [yell](#yell)
+  - [trail off (trail away)](#trail-off-trail-away)
+  - [cut (someone) off](#cut-someone-off)
+  - [cut in (on someone)](#cut-in-on-someone)
 
-## 正文 {ignore=true}
+<br>
+
+## 正文 
 
 ### add
 If you add something when you are speaking, you say something more.
