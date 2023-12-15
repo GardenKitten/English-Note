@@ -89,7 +89,7 @@ If you counter something that someone has said, you say something which shows th
 If you cry something, you shout it or say it loudly.
 > 'Nancy Drew,' she **cried**, 'you're under arrest!'
 > 
->> **Cry out means the same as cry.**<br>
+>> ***Cry out means the same as cry.***<br>
 >> 'You're wrong, quite wrong!' Henry **cried out**, suddenly excited.
 
 <br>
@@ -241,7 +241,7 @@ When you whisper, you say something very quietly, using your breath rather than 
 ### yell
 If you yell, you shout loudly, usually because you are excited, angry, or in pain.
 > 'Eva!' he **yelled**.
->> **Yell out means the same as yell.**<br>
+>> ***Yell out means the same as yell.***<br>
 >> 'Are you coming or not?' they **yelled out** after him. 
 
 <br>
