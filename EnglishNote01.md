@@ -30,6 +30,7 @@
   - [groan](#groan)
   - [huff](#huff)
   - [hiss](#hiss)
+  - [laugh](#laugh)
   - [moan](#moan)
   - [mumble](#mumble)
   - [murmur](#murmur)
@@ -145,6 +146,12 @@ If you *groan* something, you say it in a low, unhappy voice.
 ### [hiss](https://www.collinsdictionary.com/dictionary/english/hiss)
 If you *hiss* something, you say it forcefully in a whisper.
   > 'Stay here,' I **hissed** at her.
+
+<br>
+
+### [laugh](https://www.collinsdictionary.com/dictionary/english/laugh)
+When you *laugh*, you make a sound with your throat while smiling and show that you are happy or amused. People also sometimes *laugh* when they feel nervous or are being unfriendly.
+> 'I'll be astonished if I win on Sunday,' **laughed** Lyle. 
 
 <br>
 
