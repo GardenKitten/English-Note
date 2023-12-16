@@ -75,7 +75,7 @@ You use *begin* to mention the first thing that someone says.
 ### [call](https://www.collinsdictionary.com/dictionary/english/call)
 If you *call* something, you say it in a loud voice, because you are trying to attract someone's attention.
 > 'Boys!' she *called* again. 
->> ***Call out means the same as call.***
+>> ***Call out means the same as call.***<br>
 >> The train stopped and a porter **called out**, 'Middlesbrough!' 
 
 <br>
