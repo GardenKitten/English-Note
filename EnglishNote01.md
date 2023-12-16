@@ -45,6 +45,7 @@
   - [scream](#scream)
   - [scoff](#scoff)
   - [shout](#shout)
+  - [sigh](#sigh)
   - [snarl](#snarl)
   - [snap](#snap)
   - [sob](#sob)
@@ -236,6 +237,12 @@ If you *scoff at* something, you speak about it in a way that shows you think it
 ### [shout](https://www.collinsdictionary.com/dictionary/english/shout)
 If you *shout*, you say something very loudly, usually because you want people a long distance away to hear you or because you are angry.
 > 'She's alive!' he **shouted** triumphantly.
+
+<br>
+
+### [sigh](https://www.collinsdictionary.com/dictionary/english/sigh)
+If you *sigh* something, you say it with a sigh.
+> 'Oh, sorry. I forgot.'—'Everyone forgets,' the girl **sighed**.
 
 <br>
 
