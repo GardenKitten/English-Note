@@ -37,6 +37,7 @@
   - [mutter](#mutter)
   - [offer](#offer)
   - [prompt](#prompt)
+  - [reassure](#reassure)
   - [remark](#remark)
   - [repeat](#repeat)
   - [reply](#reply)
@@ -192,6 +193,12 @@ If you *prompt* someone when they stop speaking, you encourage or help them to c
 
 <br>
 
+### [reassure](https://www.collinsdictionary.com/dictionary/english/reassure)
+If you *reassure* someone, you say or do things to make them stop worrying about something.
+> I tried to **reassure** her, 'Don't worry about it. We won't let it happen again.' 
+
+<br>
+
 ### [remark](https://www.collinsdictionary.com/dictionary/english/remark)
 If you *remark* that something is the case, you say that it is the case.
 > 'Some people have more money than sense,' Winston had **remarked**. 
@@ -305,3 +312,7 @@ If you *cut someone off* when they are speaking, you interrupt them and stop the
 ### [cut in (on someone)](https://www.collinsdictionary.com/dictionary/english/cut-in)
 If you *cut in on* someone, you interrupt them when they are speaking.
 > 'Not true,' the Duchess **cut in**.
+
+<br>
+
+Thanks for reading! ;)
