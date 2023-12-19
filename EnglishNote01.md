@@ -154,6 +154,12 @@ If you *prompt* someone when they stop speaking, you encourage or help them to c
 
 <br>
 
+### [rasp](https://www.collinsdictionary.com/dictionary/english/rasp)
+If someone *rasps*, their voice or breathing is harsh and unpleasant to listen to.
+> 'Where've you put it?' he **rasped**.
+
+<br>
+
 ### [reassure](https://www.collinsdictionary.com/dictionary/english/reassure)
 If you *reassure* someone, you say or do things to make them stop worrying about something.
 > I tried to **reassure** her, 'Don't worry about it. We won't let it happen again.' 
