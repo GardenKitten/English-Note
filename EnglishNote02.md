@@ -33,8 +33,8 @@
 
 ### [tilt](https://www.collinsdictionary.com/dictionary/english/tilt)
 If you *tilt* part of your body, usually your head, you move it slightly upwards or to one side.
-> Mari **tilted** her head back so that she could look at him. 
-> The nurse **tilted** his head to the side and inspected the wound. 
+> Mari **tilted** her head back so that she could look at him. <br>
+> The nurse **tilted** his head to the side and inspected the wound. <br>
 > She **tilted** her face to kiss me quickly on the chin.
 
 <br>
@@ -44,8 +44,6 @@ If you *tilt* part of your body, usually your head, you move it slightly upwards
 ### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
 * If you *curse*, you use rude or offensive language, usually because you are angry about something.
 > I cursed and hobbled to my feet. 
-
-<br>
 
 * If you *curse* someone, you say insulting things to them because you are angry with them.
 > Grandma protested, but he **cursed** her and rudely pushed her aside. 
