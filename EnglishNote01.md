@@ -13,54 +13,6 @@
 
 <br>
 
-<!-- omit in toc -->
-## 目录 
-- [正文](#正文)
-  - [add](#add)
-  - [begin](#begin)
-  - [blurt](#blurt)
-  - [call](#call)
-  - [continue](#continue)
-  - [correct](#correct)
-  - [counter](#counter)
-  - [cry](#cry)
-  - [demand](#demand)
-  - [giggle](#giggle)
-  - [growl](#growl)
-  - [grumble](#grumble)
-  - [groan](#groan)
-  - [huff](#huff)
-  - [hiss](#hiss)
-  - [laugh](#laugh)
-  - [moan](#moan)
-  - [mumble](#mumble)
-  - [murmur](#murmur)
-  - [mutter](#mutter)
-  - [offer](#offer)
-  - [prompt](#prompt)
-  - [reassure](#reassure)
-  - [remark](#remark)
-  - [repeat](#repeat)
-  - [reply](#reply)
-  - [resume](#resume)
-  - [retort](#retort)
-  - [scream](#scream)
-  - [scoff](#scoff)
-  - [shout](#shout)
-  - [sigh](#sigh)
-  - [snarl](#snarl)
-  - [snap](#snap)
-  - [sob](#sob)
-  - [splutter  (sputter)](#splutter--sputter)
-  - [warn](#warn)
-  - [whisper](#whisper)
-  - [yell](#yell)
-  - [trail off (trail away)](#trail-off-trail-away)
-  - [cut (someone) off](#cut-someone-off)
-  - [cut in (on someone)](#cut-in-on-someone)
-
-<br>
-
 ## 正文 
 
 ### [add](https://www.collinsdictionary.com/dictionary/english/add)

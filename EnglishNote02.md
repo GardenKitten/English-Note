@@ -6,28 +6,21 @@
 <br>
 
 <!-- omit in toc -->
-# 写在前面 
+## 写在前面 
 * 使用词典：[Collins](https://www.collinsdictionary.com/)
 * 个人学习用，仅供参考，可能会有错漏
 * 制作整理：[雨](https://github.com/GardenKitten)，转载请注明[出处](https://github.com/GardenKitten/English-Note)
 
 <br>
 
-<!-- omit in toc -->
-# 目录 
-- [表情](#表情)
-- [动作](#动作)
-  - [躯体](#躯体)
-    - [tilt](#tilt)
-  - [说话](#说话)
-    - [curse](#curse)
 
+## 表情
 
-# 表情
-
-
-
-# 动作
+### [beam](https://www.collinsdictionary.com/dictionary/english/beam)
+If you say that someone is *beaming*, you mean that they have a big smile on their face because they are happy, pleased, or proud about something.
+> Frances **beamed** at her friend with undisguised admiration. <br>
+> 'Welcome back,' she **beamed**.<br>
+> ...the **beaming** face of a 41-year-old man on the brink of achieving his dreams
 
 ## 躯体
 
