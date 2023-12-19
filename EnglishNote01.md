@@ -18,6 +18,7 @@
 - [正文](#正文)
   - [add](#add)
   - [begin](#begin)
+  - [blurt](#blurt)
   - [call](#call)
   - [continue](#continue)
   - [correct](#correct)
@@ -71,6 +72,14 @@ If you *add* something when you are speaking, you say something more.
 ### [begin](https://www.collinsdictionary.com/dictionary/english/begin)
 You use *begin* to mention the first thing that someone says.
 > 'Professor Theron,' he **began**, 'I'm very pleased to see you.'
+
+<br>
+
+### [blurt](https://www.collinsdictionary.com/dictionary/english/blurt)
+If someone *blurts* something, they say it suddenly, after trying hard to keep quiet or to keep it secret.
+> 'I was looking for Sally,' he **blurted**, and his eyes filled with tears. 
+>> **If someone *blurts* something *out*, they blurt it.**
+>> 'You're mad,' the driver **blurted out**. 
 
 <br>
 
