@@ -22,6 +22,8 @@ If you say that someone is *beaming*, you mean that they have a big smile on the
 > 'Welcome back,' she **beamed**.<br>
 > ...the **beaming** face of a 41-year-old man on the brink of achieving his dreams
 
+
+
 ## 躯体
 
 ### [tilt](https://www.collinsdictionary.com/dictionary/english/tilt)
@@ -32,7 +34,19 @@ If you *tilt* part of your body, usually your head, you move it slightly upwards
 
 <br>
 
-## 说话
+### [squeeze](https://www.collinsdictionary.com/dictionary/english/squeeze)
+* If you *squeeze* something, you press it firmly, usually with your hands.
+> He **squeezed** her arm reassuringly.  <br>
+> Dip the bread briefly in water, then **squeeze** it dry. 
+
+* If you *squeeze* your eyes shut or if your eyes *squeeze* shut, you close them tightly, usually because you are frightened or to protect your eyes from something such as strong sunlight.
+> Nancy **squeezed** her eyes shut and prayed. <br>
+> If you keep your eyes **squeezed** shut, you'll miss the show. <br>
+> My eyes were **squeezed** shut against the light.  
+
+<br>
+
+## 声音
 
 ### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
 * If you *curse*, you use rude or offensive language, usually because you are angry about something.
@@ -44,5 +58,6 @@ If you *tilt* part of your body, usually your head, you move it slightly upwards
 
 <br>
 
+---
 
-
+Thanks for reading ;)
