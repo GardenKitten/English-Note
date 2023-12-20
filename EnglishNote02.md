@@ -18,11 +18,30 @@
 
 ### [beam](https://www.collinsdictionary.com/dictionary/english/beam)
 If you say that someone is *beaming*, you mean that they have a big smile on their face because they are happy, pleased, or proud about something.
-> Frances **beamed** at her friend with undisguised admiration. <br>
+> Frances **beamed at** her friend with undisguised admiration. <br>
 > 'Welcome back,' she **beamed**.<br>
 > ...the **beaming** face of a 41-year-old man on the brink of achieving his dreams
 
+### [scowl](https://www.collinsdictionary.com/dictionary/english/scowl)
+When someone *scowls*, an angry or hostile expression appears on their face.
+> He **scowled**, and slammed the door behind him. <br>
+> She **scowled at** the two men as they entered the room. 
 
+<br>
+
+### [wrinkle](https://www.collinsdictionary.com/dictionary/english/wrinkle)
+When you *wrinkle* your nose or forehead, or when it *wrinkles*, you tighten the muscles in your face so that the skin folds.
+> Frannie **wrinkled** her nose at her daughter. <br>
+> Ellen's face **wrinkles** as if she is about to sneeze. 
+
+<br>
+
+### [glower](https://www.collinsdictionary.com/dictionary/english/glower)
+If you *glower at* someone or something, you look at them angrily.
+> He **glowered at** me but said nothing. <br>
+He **glowered** and glared, but she steadfastly refused to look his way
+
+<br>
 
 ## 躯体
 
@@ -46,6 +65,20 @@ If you *tilt* part of your body, usually your head, you move it slightly upwards
 
 <br>
 
+### [jolt](https://www.collinsdictionary.com/dictionary/english/jolt)
+If something *jolts* someone, it gives them an unpleasant surprise or shock.
+> A stinging slap across the face **jolted** her. <br>
+> Henderson was momentarily **jolted** by the news. 
+
+<br>
+
+### [slump](https://www.collinsdictionary.com/dictionary/english/slump)
+If you *slump* somewhere, you fall or sit down there heavily, for example because you are very tired or you feel ill.
+> She **slumped** into a chair. <br>
+> He saw the driver **slumped** over the wheel. 
+
+<br>
+
 ## 声音
 
 ### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
@@ -53,10 +86,23 @@ If you *tilt* part of your body, usually your head, you move it slightly upwards
 > I cursed and hobbled to my feet. 
 
 * If you *curse* someone, you say insulting things to them because you are angry with them.
-> Grandma protested, but he **cursed** her and rudely pushed her aside. 
+> Grandma protested, but he **cursed** her and rudely pushed her aside. <br>
 > He **cursed** himself for having been so careless. 
 
 <br>
+
+## 情感
+
+### [relent](https://www.collinsdictionary.com/dictionary/english/relent)
+If you *relent*, you allow someone to do something that you had previously refused to allow them to do
+> Finally his mother **relented** and gave permission for her youngest son to marry. 
+
+<br>
+
+### [scorn](https://www.collinsdictionary.com/dictionary/english/scorn)
+If you *scorn* someone or something, you feel or show contempt for them.
+> Several leading officers have quite openly **scorned** the peace talks.<br>
+> People **scorn** me as a single parent. 
 
 ---
 
