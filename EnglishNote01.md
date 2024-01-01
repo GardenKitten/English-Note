@@ -43,6 +43,7 @@ If you *call* something, you say it in a loud voice, because you are trying to a
 
 <br>
 
+
 ### [continue](https://www.collinsdictionary.com/dictionary/english/continue)
 If you *continue*, you begin speaking again after a pause or interruption.
 > 'You have no right to intimidate this man,' Alison **continued**.
@@ -58,6 +59,12 @@ If you *correct* someone, you say something which you think is more accurate or 
 ### [counter](https://www.collinsdictionary.com/dictionary/english/counter)
 If you *counter* something that someone has said, you say something which shows that you disagree with them or which proves that they are wrong.
 > 'But Peter, it's not that simple,' Goldstone **countered** in a firm voice.
+
+<br>
+
+### [croak](https://www.collinsdictionary.com/dictionary/english/croak)
+If someone *croaks* something, they say it in a low, rough voice.
+> Tiller moaned and managed to **croak**, 'Help me' 
 
 <br>
 
@@ -241,6 +248,12 @@ If someone *snaps at* you, they speak to you in a sharp, unfriendly way.
 ### [splutter](https://www.collinsdictionary.com/dictionary/english/splutter)  [(sputter)](https://www.collinsdictionary.com/dictionary/english/sputter)
 If someone *splutters*, they make short sounds and have difficulty speaking clearly, for example because they are embarrassed or angry.
 > 'But it cannot be,' he **spluttered**.
+
+<br>
+
+### [stammer](https://www.collinsdictionary.com/dictionary/english/stammer)
+If you *stammer*, you speak with difficulty, hesitating and repeating words or sounds.
+> 'Forgive me,' I **stammered**. 
 
 <br>
 

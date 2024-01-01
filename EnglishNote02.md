@@ -29,6 +29,8 @@ When someone *scowls*, an angry or hostile expression appears on their face.
 
 <br>
 
+crinkle
+
 ### [wrinkle](https://www.collinsdictionary.com/dictionary/english/wrinkle)
 When you *wrinkle* your nose or forehead, or when it *wrinkles*, you tighten the muscles in your face so that the skin folds.
 > Frannie **wrinkled** her nose at her daughter. <br>
@@ -79,6 +81,13 @@ If you *slump* somewhere, you fall or sit down there heavily, for example becaus
 
 <br>
 
+### [stroke](https://www.collinsdictionary.com/dictionary/english/stroke)
+If you *stroke* someone or something, you move your hand slowly and gently over them.
+> Carla, curled up on the sofa, was **stroking** her cat. <br>
+> She walked forward and embraced him and **stroked** his tousled white hair.
+
+<br>
+
 ## 声音
 
 ### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
@@ -88,6 +97,13 @@ If you *slump* somewhere, you fall or sit down there heavily, for example becaus
 * If you *curse* someone, you say insulting things to them because you are angry with them.
 > Grandma protested, but he **cursed** her and rudely pushed her aside. <br>
 > He **cursed** himself for having been so careless. 
+
+<br>
+
+### [chide](https://www.collinsdictionary.com/dictionary/english/chide)
+* If you *chide* someone, you speak to them angrily because they have done something wicked or foolish.
+> Cross **chided** himself for worrying.
+> He gently **chided** the two women. 
 
 <br>
 
