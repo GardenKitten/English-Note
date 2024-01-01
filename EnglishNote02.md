@@ -29,7 +29,13 @@ When someone *scowls*, an angry or hostile expression appears on their face.
 
 <br>
 
-crinkle
+### [crinkle](https://www.collinsdictionary.com/dictionary/english/crinkle)
+If something *crinkles* or if you *crinkle* it, it becomes slightly creased or folded.
+> He shrugged whimsically, his eyes **crinkling** behind his glasses. <br>
+> When she laughs, she **crinkles** her perfectly-formed nose. <br>
+> If a plant has spotted or **crinkled** leaves, do not use it for propagation.
+
+<br>
 
 ### [wrinkle](https://www.collinsdictionary.com/dictionary/english/wrinkle)
 When you *wrinkle* your nose or forehead, or when it *wrinkles*, you tighten the muscles in your face so that the skin folds.
