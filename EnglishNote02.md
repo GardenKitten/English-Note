@@ -20,15 +20,12 @@ walze
 huff
 gripes
 
-grimace
 cackles 
-guffaws
-smirk
-grits out
+
  perked up.
  stalks
 grin
-sags
+
 scoot
 aborting
 \gapes 
@@ -39,22 +36,42 @@ stride
 saunters
 
 
-## 表情
+## 1. 表情
 
-### [beam](https://www.collinsdictionary.com/dictionary/english/beam)
+### 1.1 笑
+
+#### [beam](https://www.collinsdictionary.com/dictionary/english/beam)
 If you say that someone is *beaming*, you mean that they have a big smile on their face because they are happy, pleased, or proud about something.
 > Frances **beamed at** her friend with undisguised admiration. <br>
 > 'Welcome back,' she **beamed**.<br>
 > ...the **beaming** face of a 41-year-old man on the brink of achieving his dreams
 
-### [scowl](https://www.collinsdictionary.com/dictionary/english/scowl)
+#### [smirk](https://www.collinsdictionary.com/dictionary/english/smirk)
+If you *smirk*, you smile in an unpleasant way, often because you believe that you have gained an advantage over someone else or know something that they do not know.
+> Two men looked at me, nudged each other and **smirked**. <br>
+> A dozen people were watching her, **smirking at** her discomfort. 
+
+<br>
+
+### 1.2 生气
+
+#### [scowl](https://www.collinsdictionary.com/dictionary/english/scowl)
 When someone *scowls*, an angry or hostile expression appears on their face.
 > He **scowled**, and slammed the door behind him. <br>
 > She **scowled at** the two men as they entered the room. 
 
 <br>
 
-### [crinkle](https://www.collinsdictionary.com/dictionary/english/crinkle)
+#### [glower](https://www.collinsdictionary.com/dictionary/english/glower)
+If you *glower at* someone or something, you look at them angrily.
+> He **glowered at** me but said nothing. <br>
+He **glowered** and glared, but she steadfastly refused to look his way
+
+<br>
+
+### 其他
+
+#### [crinkle](https://www.collinsdictionary.com/dictionary/english/crinkle)
 If something *crinkles* or if you *crinkle* it, it becomes slightly creased or folded.
 > He shrugged whimsically, his eyes **crinkling** behind his glasses. <br>
 > When she laughs, she **crinkles** her perfectly-formed nose. <br>
@@ -62,21 +79,24 @@ If something *crinkles* or if you *crinkle* it, it becomes slightly creased or f
 
 <br>
 
-### [wrinkle](https://www.collinsdictionary.com/dictionary/english/wrinkle)
+#### [wrinkle](https://www.collinsdictionary.com/dictionary/english/wrinkle)
 When you *wrinkle* your nose or forehead, or when it *wrinkles*, you tighten the muscles in your face so that the skin folds.
 > Frannie **wrinkled** her nose at her daughter. <br>
 > Ellen's face **wrinkles** as if she is about to sneeze. 
 
 <br>
 
-### [glower](https://www.collinsdictionary.com/dictionary/english/glower)
-If you *glower at* someone or something, you look at them angrily.
-> He **glowered at** me but said nothing. <br>
-He **glowered** and glared, but she steadfastly refused to look his way
+#### [grimace](https://www.collinsdictionary.com/dictionary/english/grimace)
+If you *grimace*, you twist your face in an ugly way because you are annoyed, disgusted, or in pain.
+> She started to sit up, **grimaced**, and sank back weakly against the pillow. <br>
+> She **grimaced at** Cerezzi, then turned to Brenda.
 
 <br>
 
-## 躯体动作
+
+
+
+## 2.躯体动作
 
 ### [perch](https://www.collinsdictionary.com/dictionary/english/perch)
 If you *perch on* something, you sit down lightly on the very edge or tip of it.
@@ -148,7 +168,15 @@ If you *stroke* someone or something, you move your hand slowly and gently over 
 
 <br>
 
-## 心理活动
+### [guffaw](https://www.collinsdictionary.com/dictionary/english/guffaw)
+* To *guffaw* means to laugh loudly.
+> As they **guffaw** loudly, the ticket collector arrived.
+> 'Ha, ha,' everyone **guffawed**. 'It's one of Viv's shock tactics.'
+
+<br>
+
+## 思考
+
 ### [muse](https://www.collinsdictionary.com/dictionary/english/muse)
 If you *muse* on something, you think about it, usually saying or writing what you are thinking at the same time.
 > Many of the papers **muse on** the fate of the President. 
@@ -157,7 +185,7 @@ If you *muse* on something, you think about it, usually saying or writing what y
 
 <br>
 
-## 情感
+## 心理活动
 
 ### [relent](https://www.collinsdictionary.com/dictionary/english/relent)
 If you *relent*, you allow someone to do something that you had previously refused to allow them to do

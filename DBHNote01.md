@@ -6,6 +6,18 @@
 
 ## 正文
 
+### [chassis](https://www.oxfordlearnersdictionaries.com/us/definition/english/chassis?q=chassis)
+`（仿生人）外部框架`<br>
+
+
+<br>
+
+### [bullpen](https://www.oxfordlearnersdictionaries.com/us/definition/english/bullpen?q=bullpen)
+`（开放式）大办公室`<br>
+a type of large office which is open-plan (= it does not have walls dividing the office area)
+
+<br>
+
 ### [revolver](https://www.collinsdictionary.com/dictionary/english/revolver)
 `左轮手枪`<br>
 a handgun equipped with a revolving cylinder containing several cartridges so that it can be fired repeatedly without being reloaded

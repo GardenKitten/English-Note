@@ -13,7 +13,7 @@
 
 <br>
 
-## 低声
+## 1. 低声
 
 ### [breathe](https://www.collinsdictionary.com/dictionary/english/breathe)
 If someone *breathes* something, they say it very quietly.
@@ -73,7 +73,7 @@ When you *whisper*, you say something very quietly, using your breath rather tha
 
 <br>
 
-## 高声
+## 2. 高声
 
 ### [call](https://www.collinsdictionary.com/dictionary/english/call)
 If you *call* something, you say it in a loud voice, because you are trying to attract someone's attention.
@@ -128,7 +128,7 @@ If you *yell*, you shout loudly, usually because you are excited, angry, or in p
 
 <br>
 
-## 愤怒／不满
+## 3. 愤怒／不满
 
 ### [growl](https://www.collinsdictionary.com/dictionary/english/growl)
 If someone *growls* something, they say something in a low, rough, and angry voice.
@@ -160,11 +160,17 @@ If you *grouse*, you complain.
 
 <br>
 
-## 笑
+## 4. 笑
 
 ### [giggle](https://www.collinsdictionary.com/dictionary/english/giggle)
 If someone *giggles*, they laugh in a childlike way, because they are amused, nervous, or embarrassed.
 > 'I beg your pardon?' she **giggled**.
+
+<br>
+
+### [guffaw](https://www.collinsdictionary.com/dictionary/english/guffaw)
+* To *guffaw* means to laugh loudly.
+> 'Ha, ha,' everyone **guffawed**. 'It's one of Viv's shock tactics.'
 
 <br>
 
@@ -174,7 +180,7 @@ When you *laugh*, you make a sound with your throat while smiling and show that 
 
 <br>
 
-## 其他
+## 5. 其他
 
 ### [add](https://www.collinsdictionary.com/dictionary/english/add)
 If you *add* something when you are speaking, you say something more.
@@ -325,7 +331,7 @@ If you warn someone not to do something, you advise them not to do it so that th
 
 <br>
 
-## 短语
+## 6. 短语
 
 
 ### [cut (someone) off](https://www.collinsdictionary.com/dictionary/english/cut-off)
