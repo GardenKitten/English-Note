@@ -13,6 +13,31 @@
 
 <br>
 
+sniff
+
+walze
+
+huff
+gripes
+
+grimace
+cackles 
+guffaws
+smirk
+grits out
+ perked up.
+ stalks
+grin
+sags
+scoot
+aborting
+\gapes 
+perch
+soothes
+
+stride
+saunters
+
 
 ## 表情
 
@@ -51,7 +76,14 @@ He **glowered** and glared, but she steadfastly refused to look his way
 
 <br>
 
-## 躯体
+## 躯体动作
+
+### [perch](https://www.collinsdictionary.com/dictionary/english/perch)
+If you *perch on* something, you sit down lightly on the very edge or tip of it.
+> He **perched on** the corner of the desk. 
+> He **perched** himself **on** the side of the bed.
+
+<br>
 
 ### [tilt](https://www.collinsdictionary.com/dictionary/english/tilt)
 If you *tilt* part of your body, usually your head, you move it slightly upwards or to one side.
@@ -94,6 +126,9 @@ If you *stroke* someone or something, you move your hand slowly and gently over 
 
 <br>
 
+## 行走
+
+
 ## 声音
 
 ### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
@@ -110,6 +145,15 @@ If you *stroke* someone or something, you move your hand slowly and gently over 
 * If you *chide* someone, you speak to them angrily because they have done something wicked or foolish.
 > Cross **chided** himself for worrying.
 > He gently **chided** the two women. 
+
+<br>
+
+## 心理活动
+### [muse](https://www.collinsdictionary.com/dictionary/english/muse)
+If you *muse* on something, you think about it, usually saying or writing what you are thinking at the same time.
+> Many of the papers **muse on** the fate of the President. 
+> 'As a whole,' she **muses**, 'the 'organized church' turns me off.'
+> He once **mused** that he would have voted Labour in 1964 had he been old enough.
 
 <br>
 

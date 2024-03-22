@@ -13,58 +13,73 @@
 
 <br>
 
-## 正文 
+## 低声
 
-### [add](https://www.collinsdictionary.com/dictionary/english/add)
-If you *add* something when you are speaking, you say something more.
-> 'You can tell that he is extremely embarrassed,' Mr Brigden **added**.
-
-<br>
-
-### [begin](https://www.collinsdictionary.com/dictionary/english/begin)
-You use *begin* to mention the first thing that someone says.
-> 'Professor Theron,' he **began**, 'I'm very pleased to see you.'
-
-<br>
-
-### [blurt](https://www.collinsdictionary.com/dictionary/english/blurt)
-If someone *blurts* something, they say it suddenly, after trying hard to keep quiet or to keep it secret.
-> 'I was looking for Sally,' he **blurted**, and his eyes filled with tears. 
->> **If someone *blurts* something *out*, they blurt it.**
->> 'You're mad,' the driver **blurted out**. 
-
-<br>
-
-### [call](https://www.collinsdictionary.com/dictionary/english/call)
-If you *call* something, you say it in a loud voice, because you are trying to attract someone's attention.
-> 'Boys!' she *called* again. 
->> ***Call out means the same as call.***<br>
->> The train stopped and a porter **called out**, 'Middlesbrough!' 
-
-<br>
-
-
-### [continue](https://www.collinsdictionary.com/dictionary/english/continue)
-If you *continue*, you begin speaking again after a pause or interruption.
-> 'You have no right to intimidate this man,' Alison **continued**.
-
-<br>
-
-### [correct](https://www.collinsdictionary.com/dictionary/english/correct)
-If you *correct* someone, you say something which you think is more accurate or appropriate than what they have just said.
-> 'Actually, that isn't what happened,' George **corrects** me.
-
-<br>
-
-### [counter](https://www.collinsdictionary.com/dictionary/english/counter)
-If you *counter* something that someone has said, you say something which shows that you disagree with them or which proves that they are wrong.
-> 'But Peter, it's not that simple,' Goldstone **countered** in a firm voice.
+### [breathe](https://www.collinsdictionary.com/dictionary/english/breathe)
+If someone *breathes* something, they say it very quietly.
+> 'You don't understand,' he **breathed**.
 
 <br>
 
 ### [croak](https://www.collinsdictionary.com/dictionary/english/croak)
 If someone *croaks* something, they say it in a low, rough voice.
 > Tiller moaned and managed to **croak**, 'Help me' 
+
+<br>
+
+### [growl](https://www.collinsdictionary.com/dictionary/english/growl)
+If someone *growls* something, they say something in a low, rough, and angry voice.
+> 'I should have killed him,' Sharpe **growled**. 
+
+<br>
+
+### [groan](https://www.collinsdictionary.com/dictionary/english/groan)
+If you *groan* something, you say it in a low, unhappy voice.
+> 'My leg–I think it's broken,' Eric **groaned**.
+
+<br>
+
+### [hiss](https://www.collinsdictionary.com/dictionary/english/hiss)
+If you *hiss* something, you say it forcefully in a whisper.
+  > 'Stay here,' I **hissed** at her.
+
+<br>
+
+### [moan](https://www.collinsdictionary.com/dictionary/english/moan)
+If you *moan*, you make a low sound, usually because you are unhappy or in pain.
+> 'My head, my head,' he **moaned**. 'I can't see.' 
+
+<br>
+
+### [mumble](https://www.collinsdictionary.com/dictionary/english/mumble)
+If you *mumble*, you speak very quietly and not at all clearly with the result that the words are difficult to understand.
+> 'Today of all days,' she **mumbled**.
+
+<br>
+
+### [murmur](https://www.collinsdictionary.com/dictionary/english/murmur)
+If you *murmur* something, you say it very quietly, so that not many people can hear what you are saying.
+> 'How lovely,' she **murmured**. 
+
+<br>
+
+### [mutter](https://www.collinsdictionary.com/dictionary/english/mutter)
+If you *mutter*, you speak very quietly so that you cannot easily be heard, often because you are complaining about something.
+> 'God knows what's happening in that madman's mind,' she **muttered**.
+
+### [whisper](https://www.collinsdictionary.com/dictionary/english/whisper)
+When you *whisper*, you say something very quietly, using your breath rather than your throat, so that only one person can hear you.
+> 'Keep your voice down,' I **whispered**. 
+
+<br>
+
+## 高声
+
+### [call](https://www.collinsdictionary.com/dictionary/english/call)
+If you *call* something, you say it in a loud voice, because you are trying to attract someone's attention.
+> 'Boys!' she *called* again. 
+>> ***Call out means the same as call.***<br>
+>> The train stopped and a porter **called out**, 'Middlesbrough!' 
 
 <br>
 
@@ -77,17 +92,43 @@ If you *cry* something, you shout it or say it loudly.
 
 <br>
 
-### [demand](https://www.collinsdictionary.com/dictionary/english/demand)
-If you *demand* something such as information or action, you ask for it in a very forceful way.
-> 'What did you expect me to do about it?' she **demanded**. 
+### [holler](https://www.collinsdictionary.com/dictionary/english/holler)
+If you *holler*, you shout loudly.
+
+> 'Watch out!' he **hollered**. 
+> 
+>> ***Holler out means the same as holler.***<br>
+>> I heard him **holler out**, 'Somebody bombed the Church.'
 
 <br>
 
-### [giggle](https://www.collinsdictionary.com/dictionary/english/giggle)
-If someone *giggles*, they laugh in a childlike way, because they are amused, nervous, or embarrassed.
-> 'I beg your pardon?' she **giggled**.
+### [scream](https://www.collinsdictionary.com/dictionary/english/scream)
+If you *scream* something, you shout it in a loud, high-pitched voice.
+> 'Brigid!' she **screamed**. 'Get up!' 
 
 <br>
+
+### [shout](https://www.collinsdictionary.com/dictionary/english/shout)
+If you *shout*, you say something very loudly, usually because you want people a long distance away to hear you or because you are angry.
+> 'She's alive!' he **shouted** triumphantly.
+
+<br>
+
+### [snarl](https://www.collinsdictionary.com/dictionary/english/snarl)
+If you *snarl* something, you say it in a fierce, angry way.
+>'Let go of me,' he **snarled**.
+
+<br>
+
+### [yell](https://www.collinsdictionary.com/dictionary/english/yell)
+If you *yell*, you shout loudly, usually because you are excited, angry, or in pain.
+> 'Eva!' he **yelled**.
+>> ***Yell out means the same as yell.***<br>
+>> 'Are you coming or not?' they **yelled out** after him. 
+
+<br>
+
+## 愤怒／不满
 
 ### [growl](https://www.collinsdictionary.com/dictionary/english/growl)
 If someone *growls* something, they say something in a low, rough, and angry voice.
@@ -113,9 +154,17 @@ If you *groan* something, you say it in a low, unhappy voice.
 
 <br>
 
-### [hiss](https://www.collinsdictionary.com/dictionary/english/hiss)
-If you *hiss* something, you say it forcefully in a whisper.
-  > 'Stay here,' I **hissed** at her.
+### [grouse](https://www.collinsdictionary.com/dictionary/english/grouse)
+If you *grouse*, you complain.
+> 'How come we never know what's going on?' he **groused**. 
+
+<br>
+
+## 笑
+
+### [giggle](https://www.collinsdictionary.com/dictionary/english/giggle)
+If someone *giggles*, they laugh in a childlike way, because they are amused, nervous, or embarrassed.
+> 'I beg your pardon?' she **giggled**.
 
 <br>
 
@@ -125,27 +174,57 @@ When you *laugh*, you make a sound with your throat while smiling and show that 
 
 <br>
 
-### [moan](https://www.collinsdictionary.com/dictionary/english/moan)
-If you *moan*, you make a low sound, usually because you are unhappy or in pain.
-> 'My head, my head,' he **moaned**. 'I can't see.' 
+## 其他
+
+### [add](https://www.collinsdictionary.com/dictionary/english/add)
+If you *add* something when you are speaking, you say something more.
+> 'You can tell that he is extremely embarrassed,' Mr Brigden **added**.
 
 <br>
 
-### [mumble](https://www.collinsdictionary.com/dictionary/english/mumble)
-If you *mumble*, you speak very quietly and not at all clearly with the result that the words are difficult to understand.
-> 'Today of all days,' she **mumbled**.
+### [begin](https://www.collinsdictionary.com/dictionary/english/begin)
+You use *begin* to mention the first thing that someone says.
+> 'Professor Theron,' he **began**, 'I'm very pleased to see you.'
 
 <br>
 
-### [murmur](https://www.collinsdictionary.com/dictionary/english/murmur)
-If you *murmur* something, you say it very quietly, so that not many people can hear what you are saying.
-> 'How lovely,' she **murmured**. 
+### [blurt](https://www.collinsdictionary.com/dictionary/english/blurt)
+If someone *blurts* something, they say it suddenly, after trying hard to keep quiet or to keep it secret.
+> 'I was looking for Sally,' he **blurted**, and his eyes filled with tears. 
+>> **If someone *blurts* something *out*, they blurt it.**
+>> 'You're mad,' the driver **blurted out**. 
 
 <br>
 
-### [mutter](https://www.collinsdictionary.com/dictionary/english/mutter)
-If you *mutter*, you speak very quietly so that you cannot easily be heard, often because you are complaining about something.
-> 'God knows what's happening in that madman's mind,' she **muttered**.
+### [continue](https://www.collinsdictionary.com/dictionary/english/continue)
+If you *continue*, you begin speaking again after a pause or interruption.
+> 'You have no right to intimidate this man,' Alison **continued**.
+
+<br>
+
+### [correct](https://www.collinsdictionary.com/dictionary/english/correct)
+If you *correct* someone, you say something which you think is more accurate or appropriate than what they have just said.
+> 'Actually, that isn't what happened,' George **corrects** me.
+
+<br>
+
+### [counter](https://www.collinsdictionary.com/dictionary/english/counter)
+If you *counter* something that someone has said, you say something which shows that you disagree with them or which proves that they are wrong.
+> 'But Peter, it's not that simple,' Goldstone **countered** in a firm voice.
+
+<br>
+
+### [demand](https://www.collinsdictionary.com/dictionary/english/demand)
+If you *demand* something such as information or action, you ask for it in a very forceful way.
+> 'What did you expect me to do about it?' she **demanded**. 
+
+<br>
+
+<br>
+
+### [observe](https://www.collinsdictionary.com/dictionary/english/observe )
+If you *observe* that something is the case, you make a remark or comment about it, especially when it is something you have noticed and thought about a lot.
+> 'He is a fine young man,' **observed** Stephen.
 
 <br>
 
@@ -203,33 +282,15 @@ To *retort* means to reply angrily to someone.
 
 <br>
 
-### [scream](https://www.collinsdictionary.com/dictionary/english/scream)
-If you *scream* something, you shout it in a loud, high-pitched voice.
-> 'Brigid!' she **screamed**. 'Get up!' 
-
-<br>
-
 ### [scoff](https://www.collinsdictionary.com/dictionary/english/scoff)
 If you *scoff at* something, you speak about it in a way that shows you think it is ridiculous or inadequate.
 > 'You'll have to do better than that,' Joanna **scoffed**.
 
 <br>
 
-### [shout](https://www.collinsdictionary.com/dictionary/english/shout)
-If you *shout*, you say something very loudly, usually because you want people a long distance away to hear you or because you are angry.
-> 'She's alive!' he **shouted** triumphantly.
-
-<br>
-
 ### [sigh](https://www.collinsdictionary.com/dictionary/english/sigh)
 If you *sigh* something, you say it with a sigh.
 > 'Oh, sorry. I forgot.'—'Everyone forgets,' the girl **sighed**.
-
-<br>
-
-### [snarl](https://www.collinsdictionary.com/dictionary/english/snarl)
-If you *snarl* something, you say it in a fierce, angry way.
->'Let go of me,' he **snarled**.
 
 <br>
 
@@ -244,6 +305,7 @@ If someone *snaps at* you, they speak to you in a sharp, unfriendly way.
   >'Everything's my fault,' she **sobbed**.
 
 <br>
+
 
 ### [splutter](https://www.collinsdictionary.com/dictionary/english/splutter)  [(sputter)](https://www.collinsdictionary.com/dictionary/english/sputter)
 If someone *splutters*, they make short sounds and have difficulty speaking clearly, for example because they are embarrassed or angry.
@@ -263,25 +325,8 @@ If you warn someone not to do something, you advise them not to do it so that th
 
 <br>
 
-### [whisper](https://www.collinsdictionary.com/dictionary/english/whisper)
-When you *whisper*, you say something very quietly, using your breath rather than your throat, so that only one person can hear you.
-> 'Keep your voice down,' I **whispered**. 
+## 短语
 
-<br>
-
-### [yell](https://www.collinsdictionary.com/dictionary/english/yell)
-If you *yell*, you shout loudly, usually because you are excited, angry, or in pain.
-> 'Eva!' he **yelled**.
->> ***Yell out means the same as yell.***<br>
->> 'Are you coming or not?' they **yelled out** after him. 
-
-<br>
-
-### [trail off (trail away)](https://www.collinsdictionary.com/dictionary/english/trail-off)
-If a speaker's voice or a speaker *trails off* or *trails away*, their voice becomes quieter and they hesitate until they stop speaking completely.
-> 'But he had no reason. He of all men...' Kate's voice **trailed off**.
-
-<br>
 
 ### [cut (someone) off](https://www.collinsdictionary.com/dictionary/english/cut-off)
 If you *cut someone off* when they are speaking, you interrupt them and stop them from speaking.
@@ -292,6 +337,18 @@ If you *cut someone off* when they are speaking, you interrupt them and stop the
 ### [cut in (on someone)](https://www.collinsdictionary.com/dictionary/english/cut-in)
 If you *cut in on* someone, you interrupt them when they are speaking.
 > 'Not true,' the Duchess **cut in**.
+
+<br>
+
+### [grit out](https://www.collinsdictionary.com/submission/26147/grit+out)
+To say something through gritted teeth. To speak with restraint. Talking while holding back anger.
+> 'I'm going to kill you,' he **gritted out**, little more than a growl!
+
+<br>
+
+### [trail off (trail away)](https://www.collinsdictionary.com/dictionary/english/trail-off)
+If a speaker's voice or a speaker *trails off* or *trails away*, their voice becomes quieter and they hesitate until they stop speaking completely.
+> 'But he had no reason. He of all men...' Kate's voice **trailed off**.
 
 <br>
 

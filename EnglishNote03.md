@@ -13,6 +13,26 @@
 
 <br>
 
+mull off
+in question
+ red herrings
+ for (all) one's trouble
+ . thick as thieves
+  mulling over
+   begs to differ
+    on par 
+    go to town
+
+Shit-eating grin refers to a big smile on someone’s face, often showing self-satisfaction and a hint of some kind of internal joke going on. It is a smug, suspicious smile.
+washed-up
+bite out=utter
+not by a long shot.
+ has the grace to look    
+  brushes off 
+  grates out, 
+   Like you can fuckin’ talk,
+    chalks it up
+    have the grace to do sth/have the good grace to do sth
 
 ## 正文
 
