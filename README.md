@@ -3,4 +3,7 @@
 * 制作整理：[雨](https://github.com/GardenKitten)，转载请注明[出处](https://github.com/GardenKitten/English-Note)
 
 ## 目录 
-- [笔记01：不要只用"Say"了!](/EnglishNote01.md)
+
+### 1. 常用动词
+- [笔记01：人物语言描写](/EnglishNote01.md)
+- [笔记02：人物动作描写](/EnglishNote02.md)
