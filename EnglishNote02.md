@@ -12,27 +12,38 @@
 * 制作整理：[雨](https://github.com/GardenKitten)，转载请注明[出处](https://github.com/GardenKitten/English-Note)
 
 <br>
-
+deems 
 sniff
+scowl
 
 walze
-
+came around to
+hunched
+perks up
+sneering 
+amends 
+withers 
+bailed
+flips him off,
+shuffle 
+waves him off, 
+snickers
 huff
 gripes
 
 cackles 
 
  perked up.
+ reclines 
  stalks
 grin
 
 scoot
 aborting
 \gapes 
-perch
+
 soothes
 
-stride
 saunters
 
 
@@ -45,6 +56,8 @@ If you say that someone is *beaming*, you mean that they have a big smile on the
 > Frances **beamed at** her friend with undisguised admiration. <br>
 > 'Welcome back,' she **beamed**.<br>
 > ...the **beaming** face of a 41-year-old man on the brink of achieving his dreams
+
+<br>
 
 #### [smirk](https://www.collinsdictionary.com/dictionary/english/smirk)
 If you *smirk*, you smile in an unpleasant way, often because you believe that you have gained an advantage over someone else or know something that they do not know.
@@ -86,6 +99,14 @@ When you *wrinkle* your nose or forehead, or when it *wrinkles*, you tighten the
 
 <br>
 
+#### [gape](https://www.collinsdictionary.com/dictionary/english/gape)
+If you *gape*, you look at someone or something in surprise, usually with an open mouth.
+> His secretary stopped taking notes to **gape at** me. <br>
+> He was not the type to wander round **gaping at** everything like a tourist. 
+> ...a grotesque face with its **gaping** mouth.
+
+<br>
+
 #### [grimace](https://www.collinsdictionary.com/dictionary/english/grimace)
 If you *grimace*, you twist your face in an ugly way because you are annoyed, disgusted, or in pain.
 > She started to sit up, **grimaced**, and sank back weakly against the pillow. <br>
@@ -93,10 +114,35 @@ If you *grimace*, you twist your face in an ugly way because you are annoyed, di
 
 <br>
 
+## 2. 声音
+
+### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
+* If you *curse*, you use rude or offensive language, usually because you are angry about something.
+> I cursed and hobbled to my feet. 
+
+* If you *curse* someone, you say insulting things to them because you are angry with them.
+> Grandma protested, but he **cursed** her and rudely pushed her aside. <br>
+> He **cursed** himself for having been so careless. 
+
+<br>
+
+### [chide](https://www.collinsdictionary.com/dictionary/english/chide)
+* If you *chide* someone, you speak to them angrily because they have done something wicked or foolish.
+> Cross **chided** himself for worrying.
+> He gently **chided** the two women. 
+
+<br>
+
+### [guffaw](https://www.collinsdictionary.com/dictionary/english/guffaw)
+* To *guffaw* means to laugh loudly.
+> As they **guffaw** loudly, the ticket collector arrived.
+> 'Ha, ha,' everyone **guffawed**. 'It's one of Viv's shock tactics.'
+
+<br>
 
 
 
-## 2.躯体动作
+## 3.躯体动作
 
 ### [perch](https://www.collinsdictionary.com/dictionary/english/perch)
 If you *perch on* something, you sit down lightly on the very edge or tip of it.
@@ -148,32 +194,13 @@ If you *stroke* someone or something, you move your hand slowly and gently over 
 
 ## 行走
 
-
-## 声音
-
-### [curse](https://www.collinsdictionary.com/dictionary/english/curse)
-* If you *curse*, you use rude or offensive language, usually because you are angry about something.
-> I cursed and hobbled to my feet. 
-
-* If you *curse* someone, you say insulting things to them because you are angry with them.
-> Grandma protested, but he **cursed** her and rudely pushed her aside. <br>
-> He **cursed** himself for having been so careless. 
+### [stride](https://www.collinsdictionary.com/dictionary/english/stride)
+* If you *stride* somewhere, you walk there with quick, long steps.
+> They were joined by a newcomer who came **striding across** a field. 
+> He turned abruptly and **strode off** down the corridor.
 
 <br>
 
-### [chide](https://www.collinsdictionary.com/dictionary/english/chide)
-* If you *chide* someone, you speak to them angrily because they have done something wicked or foolish.
-> Cross **chided** himself for worrying.
-> He gently **chided** the two women. 
-
-<br>
-
-### [guffaw](https://www.collinsdictionary.com/dictionary/english/guffaw)
-* To *guffaw* means to laugh loudly.
-> As they **guffaw** loudly, the ticket collector arrived.
-> 'Ha, ha,' everyone **guffawed**. 'It's one of Viv's shock tactics.'
-
-<br>
 
 ## 思考
 

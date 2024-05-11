@@ -4,6 +4,8 @@
 > 下面的单词全是ao3看文看来的，~~又名我在ao3学英语~~
 
 <br>
+clarifies 
+reasons
 
 <!-- omit in toc -->
 ## 写在前面 
@@ -180,7 +182,27 @@ When you *laugh*, you make a sound with your throat while smiling and show that 
 
 <br>
 
-## 5. 其他
+## 5. 不同意/反对
+
+### [counter](https://www.collinsdictionary.com/dictionary/english/counter)
+If you *counter* something that someone has said, you say something which shows that you disagree with them or which proves that they are wrong.
+> 'But Peter, it's not that simple,' Goldstone **countered** in a firm voice.
+
+<br>
+
+### [retort](https://www.collinsdictionary.com/dictionary/english/retort)
+To *retort* means to reply angrily to someone.
+> Was he afraid, he was asked. 'Afraid of what?' he **retorted**. 
+
+<br>
+
+### [scoff](https://www.collinsdictionary.com/dictionary/english/scoff)
+If you *scoff at* something, you speak about it in a way that shows you think it is ridiculous or inadequate.
+> 'You'll have to do better than that,' Joanna **scoffed**.
+
+<br>
+
+## 6. 其他
 
 ### [add](https://www.collinsdictionary.com/dictionary/english/add)
 If you *add* something when you are speaking, you say something more.
@@ -214,19 +236,12 @@ If you *correct* someone, you say something which you think is more accurate or 
 
 <br>
 
-### [counter](https://www.collinsdictionary.com/dictionary/english/counter)
-If you *counter* something that someone has said, you say something which shows that you disagree with them or which proves that they are wrong.
-> 'But Peter, it's not that simple,' Goldstone **countered** in a firm voice.
-
-<br>
-
 ### [demand](https://www.collinsdictionary.com/dictionary/english/demand)
 If you *demand* something such as information or action, you ask for it in a very forceful way.
 > 'What did you expect me to do about it?' she **demanded**. 
 
 <br>
 
-<br>
 
 ### [observe](https://www.collinsdictionary.com/dictionary/english/observe )
 If you *observe* that something is the case, you make a remark or comment about it, especially when it is something you have noticed and thought about a lot.
@@ -245,6 +260,11 @@ If you *prompt* someone when they stop speaking, you encourage or help them to c
 > 'Go on,' the therapist **prompted** him. 
 
 <br>
+
+### [quip](https://www.collinsdictionary.com/dictionary/english/quip)
+To *quip* means to say something that is intended to be amusing or clever.
+> 'He'll have to go on a diet,' Ballard **quipped**. 
+ 
 
 ### [rasp](https://www.collinsdictionary.com/dictionary/english/rasp)
 If someone *rasps*, their voice or breathing is harsh and unpleasant to listen to.
@@ -279,18 +299,6 @@ When you *reply* to something that someone has said or written to you, you say o
 ### [resume](https://www.collinsdictionary.com/dictionary/english/resume)
 If someone *resumes*, they begin speaking again after they have stopped for a short time.
 > 'Hey, Judith,' he **resumed**, 'tell me all about yourself.'
-
-<br>
-
-### [retort](https://www.collinsdictionary.com/dictionary/english/retort)
-To *retort* means to reply angrily to someone.
-> Was he afraid, he was asked. 'Afraid of what?' he **retorted**. 
-
-<br>
-
-### [scoff](https://www.collinsdictionary.com/dictionary/english/scoff)
-If you *scoff at* something, you speak about it in a way that shows you think it is ridiculous or inadequate.
-> 'You'll have to do better than that,' Joanna **scoffed**.
 
 <br>
 
@@ -331,7 +339,7 @@ If you warn someone not to do something, you advise them not to do it so that th
 
 <br>
 
-## 6. 短语
+## 7. 短语
 
 
 ### [cut (someone) off](https://www.collinsdictionary.com/dictionary/english/cut-off)
@@ -357,6 +365,14 @@ If a speaker's voice or a speaker *trails off* or *trails away*, their voice bec
 > 'But he had no reason. He of all men...' Kate's voice **trailed off**.
 
 <br>
+
+### [shoot back](https://en.wiktionary.org/wiki/shoot_back)
+To give an abrupt response or retort.
+> "You're not being fair to us either!" a constituent **shot back**.
+
+<br>
+
+
 
 ---
 

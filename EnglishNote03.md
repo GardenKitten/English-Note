@@ -15,6 +15,8 @@
 
 mull off
 in question
+makes a point of 
+ know squat about 
  red herrings
  for (all) one's trouble
  . thick as thieves
@@ -22,6 +24,8 @@ in question
    begs to differ
     on par 
     go to town
+    perks up 
+    gear up
 
 Shit-eating grin refers to a big smile on someone’s face, often showing self-satisfaction and a hint of some kind of internal joke going on. It is a smug, suspicious smile.
 washed-up

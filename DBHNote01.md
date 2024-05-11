@@ -4,10 +4,14 @@
 
 <br>
 
+force
+
 ## 正文
 
-### [chassis](https://www.oxfordlearnersdictionaries.com/us/definition/english/chassis?q=chassis)
-`（仿生人）外部框架`<br>
+### [chassis](https://en.wikipedia.org/wiki/Chassis)
+`（仿生人）外壳`<br>
+wikipedia释义：“the load-bearing framework of a manufactured object, which structurally supports the object in its construction and function.”
+应该指的是仿生人的机身外壳。
 
 
 <br>
@@ -43,5 +47,11 @@ a state of equilibrium, balance, or stagnancy
 <br>
 
 ### [protocol](https://www.collinsdictionary.com/dictionary/english/protocol)
-`a set of rules`<br>
-这个词我也想不出比较好的中文释义，不过值得注意的是，在绝大部分DBH同人里，`protocol`都不是指计算机通信协议。
+`a predefined procedural method`<br>
+大意应该是“被预设好的标准执行步骤“，类似于科研领域的protocol
+
+<br>
+
+### field
+
+在警察工作中，"field"通常指的是实地执行任务或调查案件的现场。警察工作通常可以分为两个方面："field work"和"desk work"。"Field work"就是指警察在外出巡逻、进行逮捕、处理事故现场、进行调查等实地工作。在这些任务中，警察可能需要采集证据、收集证人证言、进行搜查等。
