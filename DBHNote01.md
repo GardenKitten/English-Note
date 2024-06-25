@@ -52,6 +52,13 @@ a state of equilibrium, balance, or stagnancy
 
 <br>
 
+### skin jobs
+`仿生人`<br>
+在经典科幻电影《银翼杀手》（Blade Runner）中，用来指代仿生人（replicants）
+
+<br>
+
+
 ### field
 
 在警察工作中，"field"通常指的是实地执行任务或调查案件的现场。警察工作通常可以分为两个方面："field work"和"desk work"。"Field work"就是指警察在外出巡逻、进行逮捕、处理事故现场、进行调查等实地工作。在这些任务中，警察可能需要采集证据、收集证人证言、进行搜查等。
